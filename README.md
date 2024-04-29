@@ -3,6 +3,12 @@ React.js + Typescript
 Installing instructions:
 <br/>
 1>Clone repository
+<br/>
 2> cd search-places
-3> npm install
-4> npm run dev
+<br/>
+3> Create .env file in root directory and paste keys
+<br/>
+4> npm install
+<br/>
+5> npm run dev
+<br/>
