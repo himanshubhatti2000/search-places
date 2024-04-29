@@ -1,0 +1,22 @@
+.App {
+  padding: 20px;
+  font-size: 16px;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  color: rgb(33, 37, 41);
+}
+
+.spinner-container{
+  min-height: 72px;
+}
+
+.pagination-container{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 12px;
+  align-items: center;
+}
+
+.pagination-container .item-per-page-input {
+  border: 1px solid rgb(206, 212, 218);
+  padding: 6px 12px;
+}

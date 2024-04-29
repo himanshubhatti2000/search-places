@@ -1,0 +1,21 @@
+.search-result-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.search-result-table th,
+.search-result-table td {
+    padding: 8px;
+    border: 1px solid rgb(222, 226, 230);
+    text-align: left;
+}
+
+.search-result-table thead {
+    font-weight: 700;
+}
+
+.search-result-table td .country-container{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
